@@ -1,0 +1,19 @@
+# Theme for app.py ("Passbook" look, dark).
+# Streamlit reads this file only when you run the app from the Bank Management folder.
+
+[theme]
+base = "dark"
+primaryColor = "#C9A54C"
+backgroundColor = "#0D1712"
+secondaryBackgroundColor = "#1B2B23"
+textColor = "#E4ECE7"
+borderColor = "#2B3D33"
+showWidgetBorder = true
+redColor = "#E5534B"
+greenColor = "#4CB782"
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+baseFontSize = 16
+baseRadius = "0.5rem"
+
+[client]
+toolbarMode = "minimal"

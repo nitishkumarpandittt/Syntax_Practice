@@ -1,3 +1,26 @@
-[{"name": "Nitish Kumar Pandit", "age": 22, "email": "nitish@gmail.com", "pin": 1234, "account_no": 1122, "balance": 0}, 
-
-{"name": "Nitish", "age": 22, "email": "nitish@gmail.com", "pin": 1234, "account_no": 1122, "balance": 0}]
+[
+    {
+        "name": "Nitish Pandit",
+        "age": 22,
+        "email": "nitishpandit@gmail.com",
+        "pin": "1234",
+        "account_no": "1122",
+        "balance": 0
+    },
+    {
+        "name": "Nitish",
+        "age": 22,
+        "email": "nitish@gmail.com",
+        "pin": "1234",
+        "account_no": "1s122",
+        "balance": 6000
+    },
+    {
+        "name": "Nitish Kumar Pandit",
+        "age": 22,
+        "email": "niithskumarpandit@gmail.com",
+        "pin": "1122",
+        "account_no": "P26UE0",
+        "balance": 4000
+    }
+]
